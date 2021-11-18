@@ -15,3 +15,5 @@ resource "aws_iam_group" "group" {
 resource "aws_iam_user" "user_one" {
   name = "testuser"
 }
+
+
